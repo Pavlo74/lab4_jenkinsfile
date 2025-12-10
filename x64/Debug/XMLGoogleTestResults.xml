@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="2" failures="0" disabled="0" errors="0" timestamp="2025-12-11T00:20:54" time="0" name="AllTests">
+  <testsuite name="StringProcessorTests" tests="2" failures="0" disabled="0" errors="0" time="0">
+    <testcase name="ReversesString" status="run" time="0" classname="StringProcessorTests" />
+    <testcase name="HandlesEmpty" status="run" time="0" classname="StringProcessorTests" />
+  </testsuite>
+</testsuites>

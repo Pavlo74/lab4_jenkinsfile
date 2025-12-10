@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Executable>C:\Users\koshu\source\repos\test_repos\x64\Debug\test_repos.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="TestCaseName.TestName" Duration="1" />
+    <TestDuration Test="StringProcessorTests.ReversesString" Duration="1" />
+    <TestDuration Test="StringProcessorTests.HandlesEmpty" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>

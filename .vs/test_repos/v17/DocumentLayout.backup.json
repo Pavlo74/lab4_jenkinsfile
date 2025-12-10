@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\koshu\\source\\repos\\test_repos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75A6C258-C936-4A5C-8B4B-AD7A84450707}|test_repos\\test_repos.vcxproj|C:\\Users\\koshu\\source\\repos\\test_repos\\test_repos\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75A6C258-C936-4A5C-8B4B-AD7A84450707}|test_repos\\test_repos.vcxproj|solutionrelative:test_repos\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A6C258-C936-4A5C-8B4B-AD7A84450707}|test_repos\\test_repos.vcxproj|C:\\Users\\koshu\\source\\repos\\test_repos\\test_repos\\stringProcessor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75A6C258-C936-4A5C-8B4B-AD7A84450707}|test_repos\\test_repos.vcxproj|solutionrelative:test_repos\\stringProcessor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "stringProcessor.h",
+              "DocumentMoniker": "C:\\Users\\koshu\\source\\repos\\test_repos\\test_repos\\stringProcessor.h",
+              "RelativeDocumentMoniker": "test_repos\\stringProcessor.h",
+              "ToolTip": "C:\\Users\\koshu\\source\\repos\\test_repos\\test_repos\\stringProcessor.h",
+              "RelativeToolTip": "test_repos\\stringProcessor.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-10T22:20:13.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.cpp",
+              "DocumentMoniker": "C:\\Users\\koshu\\source\\repos\\test_repos\\test_repos\\test.cpp",
+              "RelativeDocumentMoniker": "test_repos\\test.cpp",
+              "ToolTip": "C:\\Users\\koshu\\source\\repos\\test_repos\\test_repos\\test.cpp",
+              "RelativeToolTip": "test_repos\\test.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-10T22:15:10.426Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
