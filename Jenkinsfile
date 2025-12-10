@@ -1,11 +1,6 @@
 pipeline {
     agent any
 
-    environment {
-        // Шлях до MSBuild. Якщо Jenkins не знайде його автоматично, розкоментуйте рядок нижче і вкажіть свій шлях
-        // MSBUILD_PATH = 'C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Msbuild\\Current\\Bin\\MSBuild.exe'
-    }
-
     stages {
         stage('Checkout') {
             steps {
