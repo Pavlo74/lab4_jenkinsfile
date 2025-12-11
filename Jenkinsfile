@@ -38,7 +38,7 @@ pipeline {
             echo 'Publishing Test Results...'
             // Публікація звіту через плагін xUnit
             // Переконайтеся, що плагін xUnit встановлено в Jenkins!
-            xunit tools: [googleTest(pattern: 'test_report.xml', skipNoTestFiles: false, stopProcessingIfError: true)]
+            junit 'test_report.xml'
         }
     }
 }
